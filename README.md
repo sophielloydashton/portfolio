@@ -1,6 +1,6 @@
 # Sophie Lloyd Ashton
 
-##SJLA Portfolio
+## SJLA Portfolio
 
 I'm Sophie, a self taught front end developer from Nottingham. I have been teaching myself how to code for the past several months and have been enjoyably building up my skills. My knowledge in HTML, CSS, JavaScript, Bootstrap, Photoshop and Sketch has grown considerably in the past few months.
 
@@ -10,4 +10,4 @@ My portfolio was built in Bootstrap which at the time was the 2nd website I’ve
 
 I’m a fast learner when it comes to learning new software, frameworks, languages and design principles.  I try my best to develop mobile-first designs and prototype my designs on dotted paper through sketch wire-frames.  For design/development inspiration I like to use different websites like CodePen, Pinterest and GitHub. I use those sites to look at other possible solutions to any design/development issues I’m facing, whether it’s how to arrange a landing page or what design to use in my portfolio tiles. I still consider ‘Google’ to be my greatest digital tool.
 
-For someone like myself who has not taken a standard path into the industry I am very passionate about web design/development. I have been teaching myself how to code for the past several months and have been enjoyably building up my skills. My knowledge in HTML, CSS, JavaScript, Bootstrap, Photoshop and Sketch has grown considerably in the past few months. 
+For someone like myself who has not taken a standard path into the industry I am very passionate about web design/development. I have been teaching myself how to code for the past several months and have been enjoyably building up my skills. My knowledge in HTML, CSS, JavaScript, Bootstrap, Photoshop and Sketch has grown considerably in the past few months.
