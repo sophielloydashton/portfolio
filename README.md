@@ -1,27 +1,13 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
+# Sophie Lloyd Ashton
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+##SJLA Portfolio
 
-## Getting Started
+I'm Sophie, a self taught front end developer from Nottingham. I have been teaching myself how to code for the past several months and have been enjoyably building up my skills. My knowledge in HTML, CSS, JavaScript, Bootstrap, Photoshop and Sketch has grown considerably in the past few months.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* Fork the repo
+I have created my own portfolio through Atom and my logo through Photoshop. I have also been making “mock-up” websites using Atom and Wordpress for experience and to help me understand the web design process from start to finish. Learning new things is a passion of mine. I enjoy making things from scratch and watching them develop from the bare bones into something nourished.
 
-## Bugs and Issues
+My portfolio was built in Bootstrap which at the time was the 2nd website I’ve ever worked on in that framework.Personally I like the clean white spaces with a dark font so that my portfolio avoids looking "cluttered". The logo for my portfolio was built in Adobe Photoshop which I had to learn to design it through, I now feel I know my way round Photoshop.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+I’m a fast learner when it comes to learning new software, frameworks, languages and design principles.  I try my best to develop mobile-first designs and prototype my designs on dotted paper through sketch wire-frames.  For design/development inspiration I like to use different websites like CodePen, Pinterest and GitHub. I use those sites to look at other possible solutions to any design/development issues I’m facing, whether it’s how to arrange a landing page or what design to use in my portfolio tiles. I still consider ‘Google’ to be my greatest digital tool.
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+For someone like myself who has not taken a standard path into the industry I am very passionate about web design/development. I have been teaching myself how to code for the past several months and have been enjoyably building up my skills. My knowledge in HTML, CSS, JavaScript, Bootstrap, Photoshop and Sketch has grown considerably in the past few months. 
